@@ -1,7 +1,5 @@
 import aboutpic from './components/Access/jayPhoto.jpg'
 
-const aboutpic = aboutpic
-
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://morganbb104.github.io/HW_20_Portfolio_withReact/',
