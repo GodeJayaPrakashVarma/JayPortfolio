@@ -9,8 +9,8 @@
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "5.13.7",
     "@mui/material": "5.13.7",
-"@mui/icons-material": "5.13.7",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -21,6 +21,7 @@
     "uniqid": "5.4.0"
   },
   "devDependencies": {
+    "@babel/eslint-parser": "7.27.5",
     "eslint-config-airbnb": "18.2.1",
     "eslint-config-prettier": "8.1.0",
     "eslint-plugin-prettier": "3.3.1",
