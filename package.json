@@ -70,5 +70,8 @@
       "not ie < 11"
     ]
   },
-  "homepage": "https://jayvarma.netlify.app/"
+  "homepage": "https://jayvarma.netlify.app/",
+  "engines": {
+  "node": "16.x"
+}
 }
