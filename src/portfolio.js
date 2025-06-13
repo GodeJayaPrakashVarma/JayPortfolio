@@ -1,7 +1,6 @@
-// import aboutpic from './components/Access/mePhoto.jpg'
+import aboutpic from './components/Access/jayPhoto.jpg'
 
-const aboutpic =
-  'https://www.shutterstock.com/image-photo/passport-photo-portrait-young-man-260nw-2437772333.jpg'
+const aboutpic = aboutpic
 
 const header = {
   // all the properties are optional - can be left empty or deleted
